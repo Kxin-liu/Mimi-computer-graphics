@@ -15,4 +15,7 @@
 - **assets/**：纹理、模型、图像资源
 
 ### 3. 构建系统
-- **CMakeLists.txt**：CMake配置
+- **CMakeLists.txt**：CMake配置（环境配置微微微复杂，不过我这个VScode也可以运行哦~
+
+### 4. 特别鸣谢
+hzq学长兼职我的师父！
