@@ -1,5 +1,5 @@
 # Mimi-computer-graphics
-计算机图形学大作业呜呜
+计算机图形学大作业呜呜（《小咪duangduang乐》真的很Q弹
 
 ## 项目结构
 
